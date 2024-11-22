@@ -96,6 +96,22 @@ h2 {
   font-size: 22px;
 }
 
+.divtitle {
+  margin-bottom: 2px;
+  padding: 0px;
+}
+.divauthor {
+  margin-bottom: 2px;
+  padding: 0px;
+  font-style: italic;
+  color: rgb(82, 82, 82);
+}
+.divvenue {
+  margin-bottom: 2px;
+  padding: 0px;
+  color: rgb(82, 82, 82);
+}
+
 .papertitle {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
   font-size: 14px;
